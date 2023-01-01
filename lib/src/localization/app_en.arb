@@ -1,0 +1,20 @@
+{
+  "appTitle": "new_flutter_template",
+  "changeLang" : "Change language",
+  "language" : "English",
+  "mainPageTitle": "My codes",
+  "settings" : "Settings",
+  "profile" : "Profile",
+  "tab1" : "All codes",
+  "tab2" : "Favorites",
+  "tab3" : "Car",
+  "tab4" : "Add",
+  "card1" : "My car",
+  "card2" : "My child",
+  "card3" : "My appartment",
+  "card4" : "My wallet",
+  "card5" : "My phone",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

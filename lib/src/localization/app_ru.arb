@@ -1,0 +1,22 @@
+{
+    "appTitle": "new_flutter_template_ru",
+    "changeLang" : "Изменить язык",
+    "language" : "Русский",
+    "mainPageTitle": "Мои коды",
+    "settings" : "Настройки",
+    "profile" : "Профиль",
+    "tab1" : "Все коды",
+    "tab2" : "Избранное",
+    "tab3" : "Машина",
+    "tab4" : "Добавить",
+    "card1" : "Моя машина",
+    "card2" : "Мой ребенок",
+    "card3" : "Моя квартира",
+    "card4" : "Мой кошелек",
+    "card5" : "Мой телефон",
+    "@appTitle": {
+      "description": "The title of the application Ru"
+    }
+    
+  }
+  
